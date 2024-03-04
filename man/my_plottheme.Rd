@@ -15,6 +15,3 @@ A customized plot.
 \description{
 A function that customizes my plots using my favourite gaury theme
 }
-\examples{
-my_plottheme(plot)
-}

@@ -17,6 +17,3 @@ A numerical vector of size (kx1).
 \description{
 A function that estimats B OLS in matrix form
 }
-\examples{
-estimate_beta(y, X)
-}

@@ -9,8 +9,6 @@
 #' 
 #' @export
 #' 
-#' @examples
-#' my_plottheme(plot)
 my_plottheme <- function(plot_in) {
     usethis::use_package("ggplot2")
     usethis::use_package("ggthemes")
